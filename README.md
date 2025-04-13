@@ -51,6 +51,6 @@ This dashboard aims to simplify decision-making with actionable insights.
 
 ## 💼 Let's connect on
 
-[LinkedIn](www.linkedin.com/in/sandeeptibarewal)
+[LinkedIn](https://www.linkedin.com/in/sandeeptibarewal/)
 
 
