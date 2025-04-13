@@ -30,3 +30,6 @@ This dashboard aims to simplify decision-making with actionable insights.
 ---
 
 ## 📷 Dashboard Preview
+
+![Image](https://github.com/user-attachments/assets/bee59446-c3ff-402d-87ba-be2cc3e197cf)
+
