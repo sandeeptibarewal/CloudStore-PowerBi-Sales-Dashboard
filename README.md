@@ -45,5 +45,12 @@ This dashboard aims to simplify decision-making with actionable insights.
 
 ## 📂 Project File
 
-[Download Power BI File](./CloudStore_Sales_Dashboard.pbix)
+[Download Power BI File](https://github.com/sandeeptibarewal/CloudStore-PowerBi-Sales-Dashboard/raw/main/CloudStore_Sales_Dashboard.pbix)
+
+---
+
+## 💼 Let's connect on
+
+[LinkedIn](www.linkedin.com/in/sandeeptibarewal)
+
 
